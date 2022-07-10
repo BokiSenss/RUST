@@ -1,0 +1,55 @@
+NEW FEATURES
+
+Turn On/Off any ESP you don’t want to be displayed at the time
+See all traps ESP
+Locate loot rooms with ESP
+Locate and see all Supply Drops with ESP
+Locate all loot containers with ESP
+Added 3D bounding boxes (Body, Head, 3D are options now)
+Added Deployable ESP. This shows storage boxes, Tool Cupboard, Repair benches, Large wooden boxes, Small box, Coffin and more
+Deployable ESP color settings are in ESP -> Colours -> Misc, default is yellow
+
+Hacks for Rust Features Continued
+iwc-checkmarked ESP
+* Item ESP (Resources/Collectables/Crates)
+* Customize all ESP Colors
+* NPC ESP (Shows Tunnel Dwellers and Scientists)
+* Name ESP
+* Player ESP
+* Animal ESP
+* Distance ESP
+* Health ESP
+* Headdot ESP
+* 2D Radar
+* 3D Bounding Boxes
+* VISChecks with colors
+* Render Distance of Players and Objects with fading
+* Crosshair (Enable or Disable)
+* Hide Items On Aim (Helps if you lag when aiming)
+
+iwc-checkmarked Aimbot
+* 360 Degree Aimbot
+* Smooth Aim helps you look legit
+* Always stay locked onto any target
+* Changes target automatically on the fly
+* Set max distance for target lock-on ability
+* Setup and activate aim bones
+* Visibility checks to hit visible users
+* Super penetration to lock on and kill behind things
+* Smart targeting to find the enemy fast
+
+iwc-checkmarked Crosshair
+* Configure All Colors
+* Configure Size
+* Change Structure
+
+bonus BONUS – Rust Hacks
+* Adjustable Distance for ESP
+* Full Visibility Checks
+* Auto Switch Target
+* See All Animals and Resources
+* New Bounding Boxes and Snap Lines
+* Proximity Alert for All Players
+* Only Full Bypass for VAC, EAC, and Cheat Punch
+* Full Profile System to Save All Settings
+* Full Vac and CheatPunch Bypass to Keep You Safe
